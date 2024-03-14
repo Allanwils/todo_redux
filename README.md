@@ -2,6 +2,8 @@
 
 This is a basic Todo list app that adds and deleted tasks assigned by the user.
 
+https://list-app-redux.netlify.app
+
 ### Technologies used:
 
 In this project, we have used :
